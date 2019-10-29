@@ -3,5 +3,5 @@ clear
 echo "hi this is my first shell script file"
 echo -e "An apple a day keeps away \a\t\tdoctor\n"
 echo expr 4 + 100
-
+Added new line in this
 
